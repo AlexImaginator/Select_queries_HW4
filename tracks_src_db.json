@@ -1,0 +1,283 @@
+[
+    {
+        "musician": "Король и шут",
+        "genre": [
+            "Панк-рок"
+            ],
+        "album": [
+            {"name": "Тень клоуна",
+             "year": "2008",
+             "track": [
+                    {
+                        "title": "Полутень клоуна",
+                        "duration": "00:00:33"
+                    },
+                    {
+                        "title": "Тень клоуна",
+                        "duration": "00:02:16"
+                    },
+                    {
+                        "title": "Дагон",
+                        "duration": "00:05:02"
+                    },
+                    {
+                        "title": "Двое против всех",
+                        "duration": "00:03:52"
+                    },
+                    {
+                        "title": "В Париж – домой",
+                        "duration": "00:04:55"
+                    }
+                 ]
+            }
+        ]
+    },
+    {
+        "musician": "Операция Пластилин",
+        "genre": [
+            "Панк-рок",
+            "Русский рок"
+            ],
+        "album": [
+            {"name": "Грустные песни для уставших людей",
+             "year": "2021",
+             "track": [
+                    {
+                        "title": "Чёрный факел",
+                        "duration": "00:04:10"
+                    },
+                    {
+                        "title": "Моя провинция",
+                        "duration": "00:04:10"
+                    },
+                    {
+                        "title": "Мечтатели",
+                        "duration": "00:05:04"
+                    },
+                    {
+                        "title": "Ванлав",
+                        "duration": "00:03:39"
+                    }
+                 ]
+            }
+        ]
+    },
+    {
+        "musician": "The Offspring",
+        "genre": [
+            "Панк-рок",
+            "Рок"
+            ],
+        "album": [
+            {"name": "Summer Nationals",
+             "year": "2014",
+             "track": [
+                    {
+                        "title": "Do What You Want",
+                        "duration": "00:01:09"
+                    },
+                    {
+                        "title": "No Control",
+                        "duration": "00:01:47"
+                    },
+                    {
+                        "title": "No Reason Why",
+                        "duration": "00:02:43"
+                    },
+                    {
+                        "title": "Can not get my head around you",
+                        "duration": "00:02:14"
+                    }
+                 ]
+            }
+        ]
+    },
+    {
+        "musician": "Artik & Asti",
+        "genre": [
+            "Поп"
+            ],
+        "album": [
+            {"name": "Миллениум X",
+             "year": "2021",
+             "track": [
+                    {
+                        "title": "Она не я",
+                        "duration": "00:03:34"
+                    },
+                    {
+                        "title": "Истеричка",
+                        "duration": "00:03:41"
+                    },
+                    {
+                        "title": "Лампочки",
+                        "duration": "00:03:15"
+                    },
+                    {
+                        "title": "Голову кружу",
+                        "duration": "00:03:05"
+                    }
+                 ]
+            }
+        ]
+    },
+    {
+        "musician": "JONY",
+        "genre": [
+            "Поп"
+            ],
+        "album": [
+            {"name": "Небесные розы",
+             "year": "2020",
+             "track": [
+                    {
+                        "title": "Ты пари",
+                        "duration": "00:03:54"
+                    },
+                    {
+                        "title": "А за окном дожди",
+                        "duration": "00:02:14"
+                    },
+                    {
+                        "title": "Мир сошёл с ума",
+                        "duration": "00:03:40"
+                    },
+                    {
+                        "title": "Небесные розы",
+                        "duration": "00:03:00"
+                    },
+                    {
+                        "title": "Ты беспощадна",
+                        "duration": "00:04:03"
+                    }
+                 ]
+            }
+        ]
+    },
+    {
+        "musician": "Ария",
+        "genre": [
+            "Хэви-метал"
+            ],
+        "album": [
+            {"name": "Гость из царства теней",
+             "year": "2019",
+             "track": [
+                    {
+                        "title": "Гонка за славой",
+                        "duration": "00:05:59"
+                    },
+                    {
+                        "title": "Убить дракона",
+                        "duration": "00:06:32"
+                    },
+                    {
+                        "title": "Герой асфальта",
+                        "duration": "00:05:16"
+                    },
+                    {
+                        "title": "Эра Люцифера",
+                        "duration": "00:05:49"
+                    },
+                    {
+                        "title": "Проклятье морей",
+                        "duration": "00:012:27"
+                    }
+                 ]
+            }
+        ]
+    },
+    {
+        "musician": "Psychopath",
+        "genre": [
+            "Дабстеп",
+            "Металл"
+            ],
+        "album": [
+            {"name": "MESSENGERS OF DEATH",
+             "year": "2021",
+             "track": [
+                    {
+                        "title": "BLACK MASS DELIRIUM",
+                        "duration": "00:07:51"
+                    },
+                    {
+                        "title": "THE CULT OF THE BLACK SERPENT",
+                        "duration": "00:07:25"
+                    },
+                    {
+                        "title": "OBSESSED WITH DEATH",
+                        "duration": "00:05:23"
+                    },
+                    {
+                        "title": "TRINITY OF DEATH",
+                        "duration": "00:05:41"
+                    }
+                 ]
+            }
+        ]
+    },
+    {
+        "musician": "Пилот",
+        "genre": [
+            "Панк-рок",
+            "Русский рок"
+            ],
+        "album": [
+            {"name": "Пандора",
+             "year": "2018",
+             "track": [
+                    {
+                        "title": "Гаятри",
+                        "duration": "00:02:57"
+                    },
+                    {
+                        "title": "Пандора",
+                        "duration": "00:04:27"
+                    },
+                    {
+                        "title": "Нелюбовь",
+                        "duration": "00:05:43"
+                    },
+                    {
+                        "title": "Нет иного рая",
+                        "duration": "00:05:23"
+                    }
+                 ]
+            }
+        ]
+    },
+    {
+        "musician": "Сплин",
+        "genre": [
+            "Русский рок"
+            ],
+        "album": [
+            {"name": "Ключ к шифру",
+             "year": "2016",
+             "track": [
+                    {
+                        "title": "Медный грош",
+                        "duration": "00:01:25"
+                    },
+                    {
+                        "title": "Пирамиды",
+                        "duration": "00:04:21"
+                    },
+                    {
+                        "title": "Нам, мудрецам",
+                        "duration": "00:04:57"
+                    },
+                    {
+                        "title": "Храм",
+                        "duration": "00:02:45"
+                    },
+                    {
+                        "title": "Окраины",
+                        "duration": "00:06:00"
+                    }
+                 ]
+            }
+        ]
+    }
+]
